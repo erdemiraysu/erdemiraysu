@@ -2,7 +2,7 @@
 
 🔭 I’m a research scientist who enjoys working with health data 
 
-🌱 I’m an academic seeking a career shift into industry as a data scientist
+🌱 I’m an academic working on improving my data science skills in Python and R
 
 👯 I’m looking to collaborate on exciting projects
 

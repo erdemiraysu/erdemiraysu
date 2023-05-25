@@ -1,6 +1,6 @@
 ## Hi I'm Aysu Erdemir👋
 
-🔭 I’m a research scientist who enjoys working with health data 
+🔭 I’m a research scientist with a PhD in Psychology who enjoys working with health data 
 
 🌱 I’m an academic working on improving my data science skills in Python and R
 

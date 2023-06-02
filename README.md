@@ -12,8 +12,4 @@
 
 🤔 Currently, I’m looking for help with finding a reliable speech rhythm measure. 
 
-💬 Ask me about music, art and data. 
-
-📫 How to reach me: email: erdemiraysu@gmail.com.
-
 ⚡ Fun fact: I used to practice piano very intensely during high school and college years. 

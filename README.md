@@ -2,9 +2,9 @@
 
 🔭 I’m a research scientist with a PhD in Cognitive Psychology and a Certificate in Data Science.
 
-🙋🏻‍♀️ I enjoy finding patterns and insights in health data.
+🙋🏻‍♀️ I enjoy finding patterns and insights in data.
 
-🎯 My passion is to make a meaningful impact on people's health and wellbeing.
+🎯 My passion is to make a meaningful impact on people's wellbeing.
 
 🌱 I’m an academic working on improving my data science skills in Python and R.
 
